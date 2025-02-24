@@ -1,0 +1,16 @@
+return_id,issued_id,return_book_name,return_date,return_book_isbn
+RS104,IS106,The Catcher in the Rye,01-05-2024,978-0-553-29698-2
+RS105,IS107,Animal Farm,03-05-2024,978-0-330-25864-8
+RS106,IS108,One Hundred Years of Solitude,05-05-2024,978-0-14-118776-1
+RS107,IS109,The Great Gatsby,07-05-2024,978-0-525-47535-5
+RS108,IS110,Jane Eyre,09-05-2024,978-0-141-44171-6
+RS109,IS111,The Alchemist,11-05-2024,978-0-307-37840-1
+RS110,IS112,Harry Potter and the Sorcerers Stone,13-05-2024,978-0-679-76489-8
+RS111,IS113,The Da Vinci Code,15-05-2024,978-0-7432-4722-4
+RS112,IS114,A Game of Thrones,17-05-2024,978-0-09-957807-9
+RS113,IS115,A Peoples History of the United States,19-05-2024,978-0-393-05081-8
+RS114,IS116,The Guns of August,21-05-2024,978-0-19-280551-1
+RS115,IS117,Sapiens: A Brief History of Humankind,23-05-2024,978-0-307-58837-1
+RS116,IS118,The Diary of a Young Girl,25-05-2024,978-0-375-41398-8
+RS117,IS119,The Histories,27-05-2024,978-0-14-044930-3
+RS118,IS120,"Guns, Germs, and Steel: The Fates of Human Societies",29-05-2024,978-0-393-91257-8
