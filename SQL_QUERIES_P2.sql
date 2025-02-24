@@ -117,7 +117,7 @@ ON I.ISSUED_EMP_ID=E.EMP_ID
 GROUP BY E.EMP_NAME
 ORDER BY RANK_EMP;
 
--- ADVANCED SQL QUERISELECT * FROM ISSUE_STATUS;ES
+-- ADVANCED SQL QUERIES
 -- 23. Identify Members with Overdue Books
 -- Write a query to identify members who have overdue books (assume a 30-day return period). 
 --Display the member's_id, member's name, book title, issue date, and days overdue.
@@ -281,23 +281,3 @@ ON I.ISSUED_MEMBER_ID=M.MEMBER_ID
 WHERE R.ISSUED_ID IS NULL AND (CURRENT_DATE-I.ISSUED_DATE) > 30)
 
 SELECT *, (DAYS_OVERDUE * 0.50) AS FINE FROM BOOKS_NOT_RETURNED_BY_MEMBERS;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
